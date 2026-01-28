@@ -1,4 +1,2 @@
 ﻿# KamilCheng.github.io
-Hello world, most of this code is a test run.
-Where would the code go?
-Reading is so much fun.
+
